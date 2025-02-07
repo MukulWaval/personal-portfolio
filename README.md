@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Once UI for Next.js
 
-## Getting Started
+A thoughtfully crafted design system that eliminates complexity while maximizing flexibility.
 
-First, run the development server:
 
+![Once UI](public/images/cover.jpg)
+
+# Features
+
+Start building your Next.js app in minutes with: 
+* **A robust token and style system** that simplifies customization and ensures consistency. 
+* **A copy-and-paste component library** that integrates seamlessly into your project.
+* **Interactive documentation** to apply your branding and set component properties.
+
+# Demo
+[demo.once-ui.com](https://demo.once-ui.com)
+
+![Once UI](public/images/demo.png)
+
+# Getting started
+Clone the starter template from GitHub.
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/once-ui-system/nextjs-starter.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can also deploy it directly to Vercel.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fnextjs-starter&redirect-url=https%3A%2F%2Fonce-ui.com%2Fdocs%2F)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+View the step-by-step guide at [once-ui.com/docs](https://once-ui.com/docs).
 
-To learn more about Next.js, take a look at the following resources:
+# Documentation
+[once-ui.com/docs](https://once-ui.com/docs)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Authors
+Connect with us!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Lorant One: [Site](https://lorant.one), [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/lorant-one/)  
+Zsofia Komaromi: [Site](https://zsofia.pro), [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
 
-## Deploy on Vercel
+# Get involved
+- Join the [Design Engineers Club](https://discord.com/invite/5EyAQ4eNdS) on Discord to connect with designers, developers and share your projects.
+- Report a [bug](https://github.com/once-ui-system/nextjs-starter/issues/new?labels=bug&template=bug_report.md).
+- Submit a [feature request](https://github.com/once-ui-system/nextjs-starter/issues/new?labels=feature%20request&template=feature_request.md).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+# Sponsors
+
+[github.com/sponsors/once-ui-system](https://github.com/sponsors/once-ui-system)
+
+Become a sponsor and help us continue to develop and maintain this project.
+
+# Once UI for Figma
+
+Once UI is also available for Figma.  
+Design and prototype entire products from scratch in hours. Use the same tokens and components as the Next.js design system.
+
+Start designing: [Once UI for Figma](https://once-ui.com/figma).
